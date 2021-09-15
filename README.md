@@ -8,6 +8,8 @@ Educational materials for a Rutgers Google DSC youth program on Video Games and 
 
 * PyGalaxo - A reimagining of the arcade classic Galaxy Invaders, with minimalist polygonal rocket ships. Introduces arrays and pseudorandom number generation and provokes thought about computationally efficient rendering/memory management. Shoot to win!
 
+<img src="/assets/pong.png" alt="A still from a competitive game of PyPong" style="height: 150px; width:300px;"/>
+
 ![PyPong Freezeframe](/assets/pong.png "A still from a competitive game of PyPong")
 
 <h3>Art</h3>
