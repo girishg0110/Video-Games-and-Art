@@ -61,8 +61,8 @@ def main():
     pygame.display.set_caption("Pong")
 
 
-    width = 1200#1500
-    height = 800#900
+    width = 600
+    height = 400
     game = pygame.display.set_mode((width, height))
     
     #setup game

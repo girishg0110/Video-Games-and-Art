@@ -8,8 +8,10 @@ Educational materials for a Rutgers Google DSC youth program on Video Games and 
 
 * PyGalaxo - A reimagining of the arcade classic Galaxy Invaders, with minimalist polygonal rocket ships. Introduces arrays and pseudorandom number generation and provokes thought about computationally efficient rendering/memory management. Shoot to win!
 
+![PyPong Freezeframe](/assets/pong.png "A still from a competitive game of PyPong")
+
 <h3>Art</h3>
 
 * PyPaint - An MSPaint-like application with basic drawing functionality. Advanced students are encouraged to invent and implement their own product features (with instructor help), like saving compositions, changing brush thickness/texture, etc.
 
-
+![PyPaint Rainbow Painting](/assets/paint.png "An original composition made in PyPaint")
